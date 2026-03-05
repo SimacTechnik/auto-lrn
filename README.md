@@ -8,6 +8,8 @@ Automatizovaný agent pro průchod compliance školení na platformě [LRN](http
 
 Bot úspěšně dokončil kurz **Boj proti úplatkářství a korupci** se skóre **100% (10/10)** a vyprázdnil celou frontu povinných školení.
 
+Cena za jedno spuštění: **$6.27 USD**
+
 ## Jak to funguje
 
 1. Bot otevře prohlížeč na adrese LRN platformy
